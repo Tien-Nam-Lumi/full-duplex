@@ -1,0 +1,18 @@
+[project]
+name = "full-duplex-poc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.14.0",
+    "gradio>=6.18.0",
+    "numpy>=2.4.6",
+    "sentencepiece>=0.2.1",
+    "sounddevice>=0.5.5",
+    "soundfile>=0.14.0",
+    "speechbrain>=1.1.0",
+    "torch>=2.12.0",
+    "torchaudio>=2.11.0",
+    "transformers>=5.12.1",
+]

@@ -1,0 +1,5 @@
+nohup: les entrées sont ignorées
+Loading model...
+Loading weights:   0%|          | 0/762 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 115/762 [00:00<00:00, 1127.68it/s]Loading weights:  55%|█████▌    | 422/762 [00:00<00:00, 2252.89it/s]Loading weights:  85%|████████▌ | 648/762 [00:00<00:00, 1399.49it/s]Loading weights: 100%|██████████| 762/762 [00:00<00:00, 1424.06it/s]
+Generating audio...
+Done!
